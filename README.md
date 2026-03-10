@@ -9,4 +9,4 @@ Tech Stack:
 
 Screenshot :
 
-https://github.com/Sonaleen3/Beverage-Dashboard/blob/main/Beveragesales.png
+![Dashboard Preview].(https://github.com/Sonaleen3/Beverage-Dashboard/blob/main/Beveragesales.png)
